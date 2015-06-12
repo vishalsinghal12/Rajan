@@ -3,7 +3,7 @@ package org.vishal;
 public class Circle {
 
 	
-	
+private int i;
 private Point center;
 
 public Point getCenter() {
